@@ -1,18 +1,14 @@
-### Marc Robinson 👋
+### Marc Robinson 👾🐼
 
 
-**`Digital Craftsman`**
-<!--
-**rbamarc/rbamarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developer in training)`**
 
-Here are some ideas to get you started:
+#
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm in the process of becoming an full stack developer. On the road to create my own digital world in my vision. My current repositories will seem a bit scattered and disjointed but thats part of the learning process, and open view of everything I've done so far. Enjoy the trip!
+
+- 🔭 I’m currently working on Completing Fullstack Academy
+- 🌱 I’m currently learning JavaScript
+
+
