@@ -4,7 +4,6 @@
 **`Digital Craftsman (Developer in training)`**
 
 #
-#
 
 I'm in the process of becoming an full stack developer. On the road to create my own digital world in my vision. My current repositories will seem a bit scattered and disjointed but thats part of the learning process, and open view of everything I've done so far. Enjoy the trip!
 
